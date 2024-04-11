@@ -1,0 +1,33 @@
+_repo: Jeanne-d-Arc-et-l-Allemagne_73282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloy, Léon
+    alias: Bloy, Leon
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '37756'
+    url: http://www.gutenberg.org/2009/agents/37756
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
+    - https://en.wikipedia.org/wiki/L%C3%A9on_Bloy
+description: ''
+gutenberg_issued: '2024-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73282'
+language: fr
+pgterms:marc904: https://archive.org/details/jeannedarcetlall00bloy
+pgterms:marc905: 20240316081408bloy
+pgterms:marc906: '1915'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aParis :$bGeorges Crès, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jeanne d'Arc et l'Allemagne
+url: http://www.gutenberg.org/ebooks/73282
